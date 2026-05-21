@@ -17,7 +17,7 @@ I am passionate about solving complex problems, optimizing code, and researching
 - **Focus:** Artificial Intelligence, Generative Adversarial Networks (GANs), and Machine Learning.
 - **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
 - **Achievements:** Honors in Machine Learning. Top 10/100 in Intelligent Agents course.
-- **Beyond AI:** I love game development, applying metaheuristics and learning new things.
+- **Beyond AI:** I love game development and learning new things.
 
 ---
 
