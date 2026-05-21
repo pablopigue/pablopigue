@@ -50,10 +50,3 @@ I am passionate about solving complex problems, optimizing code, and researching
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
----
-
-### GitHub Stats
-
-[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablopigue&show_icons=true&theme=radical)](https://github.com/pablopigue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablopigue&layout=compact&theme=radical)](https://github.com/pablopigue)
