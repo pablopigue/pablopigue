@@ -14,7 +14,7 @@ I am a final-year student of the Double Degree in Mathematics and Computer Engin
 
 I am passionate about solving complex problems, optimizing code, and researching how data can be transformed into intelligence.
 
-- **Focus:** Artificial Intelligence, Generative Adversarial Networks (GANs), and Machine Learning.
+- **Focus:** Artificial Intelligence and Machine Learning.
 - **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
 - **Beyond AI:** I love game development and learning new things.
 
