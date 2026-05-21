@@ -8,21 +8,21 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a final-year student of the **Double Degree in Mathematics and Computer Engineering** at the University of Granada (UGR). My unique background allows me to combine deep mathematical rigor with efficient algorithmic execution. 
 
 I am passionate about solving complex problems, optimizing code, and researching how data can be transformed into intelligence.
 
-- 🧠 **Focus:** Artificial Intelligence, Generative Adversarial Networks (GANs), and Machine Learning.
-- 🔭 **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
-- 🏆 **Achievements:** Honors (Matrícula de Honor) in Machine Learning. Top 10/100 in Intelligent Agents course.
-- 🎮 **Beyond AI:** I love game development, applying metaheuristics (BRO algorithm), and participating in Game Jams (SummerJam '25).
-- 📫 **How to reach me:** [martinpalominopablo@gmail.com](mailto:martinpalominopablo@gmail.com)
+- **Focus:** Artificial Intelligence, Generative Adversarial Networks (GANs), and Machine Learning.
+- **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
+- **Achievements:** Honors (Matrícula de Honor) in Machine Learning. Top 10/100 in Intelligent Agents course.
+- **Beyond AI:** I love game development, applying metaheuristics and learning new things.
+- **How to reach me:** [martinpalominopablo@gmail.com](mailto:martinpalominopablo@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **AI & Data Science**
 <p align="left">
@@ -52,7 +52,7 @@ I am passionate about solving complex problems, optimizing code, and researching
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pablopigue&show_icons=true&theme=radical" alt="Pablo's GitHub stats" height="195"/>
