@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo Martín Palomino</h1>
+<h1 align="center">Hi, I'm Pablo Martín Palomino</h1>
 <h3 align="center">Math & Computer Science 🎓 | AI & Deep Learning Specialist 🤖</h3>
 
 <p align="center">
