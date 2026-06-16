@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/pablo-martin-palomino" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="pablo-martin-palomino" /></a>
   <a href="mailto:martinpalominopablo@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.kaggle.com/pablomartinpalomino" target="blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/Pablopigue" target="blank"><img align="center" src="https://img.shields.io/badge/-HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" /></a>
 </p>
 
 ---
