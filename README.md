@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a final-year student of the Double Degree in Mathematics and Computer Engineering at the University of Granada (UGR). My unique background allows me to combine deep mathematical rigor with efficient algorithmic execution. 
+I am a recent graduate of the Double Degree in Mathematics and Computer Engineering at the University of Granada (UGR). My unique background allows me to combine deep mathematical rigor with efficient algorithmic execution. 
 
 I am passionate about solving complex problems, optimizing code, and researching how data can be transformed into intelligence.
 
