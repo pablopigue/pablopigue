@@ -18,7 +18,7 @@ I am passionate about solving complex problems, optimizing code, and researching
 
 - **Focus:** Artificial Intelligence and Machine Learning.
 - **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
-- **Beyond AI:** I love game development and learning new things.
+- **Beyond AI:** I love everything related to videogame and learning new things.
 
 ---
 
