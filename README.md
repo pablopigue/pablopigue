@@ -16,7 +16,7 @@ I am a recent graduate of the Double Degree in Mathematics and Computer Science 
 
 I am passionate about solving complex problems, optimizing code, and researching how data can be transformed into intelligence.
 
-- **Focus:** Artificial Intelligence and Machine Learning.
+- **Focus:** Data Science, Machine Learning and Software Development.
 - **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
 - **Beyond AI:** I love everything related to videogame and learning new things.
 
