@@ -17,7 +17,7 @@ I am a recent graduate of the Double Degree in Mathematics and Computer Science 
 I am passionate about solving complex problems, optimizing code, and researching how data can be transformed into intelligence.
 
 - **Focus:** Data Science, Machine Learning and Software Development.
-- **Currently working on:** My Bachelor's Thesis (TFG) exploring and evaluating GANs from the perspective of f-divergences.
+- **Currently:** Wrapping up my Bachelor's Thesis (TFG) on GANs and f-divergences, with plans to pursue a Master's in Data Science at UGR this fall.
 - **Beyond AI:** I love everything related to videogame and learning new things.
 
 ---
