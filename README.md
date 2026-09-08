@@ -48,8 +48,3 @@ I am passionate about solving complex problems, optimizing code, and researching
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/OoG1CF2T3QIAAAAi/kucing-scuba-scuba-cat.gif" width="300" alt="Scuba cat">
-</p>
-
