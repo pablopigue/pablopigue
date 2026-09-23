@@ -17,7 +17,7 @@ I am a recent graduate of the Double Degree in Mathematics and Computer Science 
 
 I am passionate about solving complex problems, optimizing code, and researching how data can be transformed into intelligence.
 
-- **Focus:** Data Science, Machine Learning, GenAI and Software Development.
+- **Focus:** Data Science, Machine Learning, Computer Vision, GenAI and Software Development.
 - **Currently:** Pursuing a Master's in Data Science at UGR, and searching for an internship or full-time position.
 - **Beyond AI:** I love everything related to videogame and learning new things.
 
