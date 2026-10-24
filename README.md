@@ -3,6 +3,7 @@
 <h3 align="center">MSc Data Science student</h3>
 
 <p align="center">
+  <a href="https://pablopigue.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-C2410C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/pablo-martin-palomino" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="pablo-martin-palomino" /></a>
   <a href="mailto:martinpalominopablo@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.kaggle.com/pablomartinpalomino" target="blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
@@ -19,7 +20,7 @@ I am passionate about solving complex problems, optimizing code, and researching
 
 - **Focus:** Data Science, Machine Learning, Computer Vision, GenAI and Software Development.
 - **Currently:** Pursuing a Master's in Data Science at UGR, and searching for an internship or full-time position.
-- **Beyond AI:** I love everything related to videogame and learning new things.
+- **Beyond AI:** I love everything related to videogames and learning new things.
 
 ---
 
